@@ -1,6 +1,6 @@
 ### Hola , I'm Ajin Mathew ! 👋
 
-- 🔭 I’m currently studying Front-End Developer.
+- 🔭 I’m currently studying Front-End Development.
 - 🌱 I’m currently learning Full-Stack Development.
 - 👯 I’m looking to collaborate on Web Development.
 - 🤔 I’m looking for help with YouTube.
